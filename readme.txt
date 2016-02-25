@@ -1,4 +1,4 @@
-The .jar file is in directory "15SquarePuzzle".
+The .jar file is in directory "15SquarePuzzle-master".
 
 The command line arguments are the difficulty level of the game. You can give any of the following:
 1."EASY"
