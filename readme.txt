@@ -9,4 +9,5 @@ e.g.
 Go to directory "15SquarePuzzle".
 >java -jar puzzle.jar "EASY"
 
+
 <a href="http://imgur.com/yrBQDBd"><img src="http://i.imgur.com/yrBQDBd.gif" title="source: imgur.com" /></a>
